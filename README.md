@@ -1,18 +1,13 @@
-# IA Ticaret Web Sitesi Projesi
+# NEXUS GAMING - Oyuncu E-Ticaret Web Sitesi Projesi
 
-Bu proje **HTML, CSS, JavaScript ve Python** kullanılarak hazırlanmış modern ve şık bir e-ticaret web sitesidir.
+Bu proje tam anlamıyla **Cyberpunk / RGB Oyuncu Tasarımı** anlayışıyla hazırlanmış e-spor mağazası web sitesidir.
 
-## Proje Yapısı
-- `index.html`: Sayfanın ana HTML iskeleti.
-- `style.css`: Modern karanlık tema (dark mode) ve görsel stiller.
-- `script.js`: Dinamik ürün listeleme ve etkileşim kodları.
-- `server.py`: Bilgisayarınızda yerel test yapmanızı sağlayan Python sunucu kodu.
+## Özellikler
+- **NEXUS GAMING** markası ve neon gamer stili (Neon Mavi, Magenta Kırmızı, Neon Yeşil).
+- Siberpunk yazı tipleri (`Orbitron` ve `Rajdhani`).
+- 8 Farklı Oyuncu Ekipmanı (RTX 4070 Gaming PC Seti, 240Hz Kavisli Monitör, RGB Mekanik Klavye, Kablosuz Mouse, 7.1 Kulaklık, RGB Koltuk, XXL Mousepad, Çift Monitör Standı).
+- Trendyol satın alma yönlendirmeleri.
 
-## Nasıl Çalıştırılır?
-1. Bilgisayarınızda `server.py` dosyasını çalıştırabilirsiniz VEYA doğrudan `index.html` dosyasına çift tıklayarak tarayıcınızda açabilirsiniz.
-
-## GitHub Pages Üzerinden Yayınlama (Adım Adım)
-1. Bu projedeki `index.html`, `style.css` ve `script.js` dosyalarını GitHub reponuza (örneğin `bilalemin/deneme`) yükleyin.
-2. `index.html` dosyasının ana dizinde (root) olduğundan emin olun.
-3. GitHub'da **Settings > Pages** kısmına gidin ve `main` branch seçip kaydedin.
-4. Siteniz birkaç dakika içinde `https://bilalemin.github.io/deneme/` adresinde canlıya geçecektir!
+## GitHub Pages Yükleme Adımları
+1. Bu zip içindeki `index.html`, `style.css` ve `script.js` dosyalarını GitHub reponun (`bilalemin/deneme`) en dış (root) dizinine ekle.
+2. `https://bilalemin.github.io/deneme/` adresi üzerinden canlı siteni doğrudan açabilirsin!
